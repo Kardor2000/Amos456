@@ -9,13 +9,13 @@
     <title>ART277 ASSIGNMENT SECTION 3</title>
 </head>
 <body>
-    <p style="text-align: right;"><b><i>Prof. Henry Nana</i></b><br>
+    <p style="text-align: right;"><Strong><em>Prof. Henry Nana</em></Strong><br>
         New Campus<br>
         Starz University<br>
         Barrolle Practice Road,<br>
         Liberia<br>
-        <b><i>Tel:</i></b>123-456-7890<br>
-        <b><i>Email:</i></b> no_reply@example.com<br><br>
+        <b><em>Tel:</em></b>123-456-7890<br>
+        <b><em>Email:</em></b> no_reply@example.com<br><br>
         29 September 2022</p><br>
 <p><b>Mr. Albert Momo</b><br>
     Main Campus, Starz University<br>
