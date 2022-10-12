@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Author" Content="Jeremiah A Kardor">
     <title>ART277 ASSIGNMENT SECTION 3</title>
 </head>
 <body>
@@ -21,7 +21,8 @@
     Main Campus, Starz University<br>
     Airfield, Sinkor<br>
     Monrovia, Liberia</p><br>
-    <h2>Re: Albert Momo university application</h2><hr >
+    <h1>Re: Albert Momo university application</h1>
+<hr />
     <p>Dear Mr. Momo,</p>
     <p>Thank you for your recent application to join us at the Starz University’s science faculty to study
         as part of your <abbr title="Doctor of Philosoph">PhD</abbr> next year. I will answer your questions one by one, in the following sections.
@@ -73,7 +74,7 @@
         </p>   
     <p>Yours sincerely,</p>
     <p>Prof. Henry Nana</p> 
-    <p>Starz University motto: "Aim for Global Success" – <i>Technology is our Passion; Education is 
-        Our Life</i></p>
+    <p>Starz University motto: <q>Aim for Global Success</q> – <em>Technology is our Passion; Education is 
+        Our Life</em></p>
 </body>
 </html>
